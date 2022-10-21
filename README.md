@@ -76,6 +76,7 @@ It's coded in scratch but is a pc app. It's called Txt Image Maker or txtimaker 
  164  47 129  52 17125
  140 120 155 120 11125
  155 120 163 117 11125
+ (Legacy edition file, only usable on newer versions when put through the converter)
  Find out what that is by getting the app =D.
  My project on scratch
  https://scratch.mit.edu/projects/725997352/
